@@ -1061,7 +1061,7 @@ box-shadow: 1px 1px 20px 1px rgba(0, 0, 0, .5);
 }
 .paginator {
   position: absolute;
-  bottom: 0;
+  bottom: -20px;
   left: 740px;
 }
 .paginator a {
